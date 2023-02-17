@@ -1,0 +1,11 @@
+{
+   "name": "vesna",
+   "lastName" : "Naumovska",
+   "Email" : "vesne@test.com",
+   "DayOfBirth" :"20",
+   "MonthOfBirth" : "May",
+   "YearOfBirth" : "2020",
+   "CompanyName" : "IWEC",
+   "Password" : "123456"
+
+}
